@@ -1,6 +1,6 @@
 # React app with Web Assembly
 
-## set up
+## web assembly set up
 
 ```bash
 # enter web assembly folder
